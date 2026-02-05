@@ -30,6 +30,8 @@ This repository serves as a centralized location for:
 
 ## 🚀 Quick Start
 
+**New to this repository?** Check out the [Quick Start Guide](docs/QUICK_START.md) for a 5-minute introduction!
+
 ### Creating a New Project
 
 1. Copy the `projects/project-template/` directory
@@ -66,9 +68,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding new projects and
 
 ## 📖 Additional Resources
 
-- [Best Practices Guide](docs/best-practices.md)
-- [Workflow Guide](docs/workflow-guide.md)
-- [Template Usage](templates/README.md)
+- [Quick Start Guide](docs/QUICK_START.md) - Get started in 5 minutes ⚡
+- [Best Practices Guide](docs/best-practices.md) - Writing effective documentation
+- [Workflow Guide](docs/workflow-guide.md) - Complete project lifecycle guide
+- [Template Usage](templates/README.md) - How to use templates
 
 ## 📝 License
 
